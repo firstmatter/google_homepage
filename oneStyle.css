@@ -1,0 +1,44 @@
+div.glogo img {
+    margin: auto;
+    margin-top: 12%;
+    border: 3px solid green;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+div.searchBox input {
+    margin: auto;
+    margin-top: 23px;
+    width: 35%;
+    border: 3px solid green;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+span.searchButton {
+    margin: auto;
+    margin-top: 23px;
+    width: 7.5%;
+    height: 33px;
+    border: 3px solid green;
+    display: flex;
+    justify-content: space-between;
+}
+
+span.feelingLuckyButton {
+    margin: auto;
+    margin-top: 23px;
+    width: 7.5%;
+    height: 33px;
+    border: 3px solid green;
+    display: flex;
+    justify-content: space-between;
+}
+
+/*
+Center buttons in the middle of the page.
+Make sure the buttons are side by side. (Inline, perhaps.)
+Increase the width of buttons while retaining even spacing between them.
+*/
